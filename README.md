@@ -21,5 +21,10 @@
 
 ## How To Run 
   https://localhost:5001 in your chrome
+  
+  
+  for command 
+  
+  python manage.py runserver 5001
 
 
